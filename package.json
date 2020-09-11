@@ -1,0 +1,15 @@
+{
+  "name": "adityafastifyjs",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Abhishek kumar",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.3.0"
+  }
+}
